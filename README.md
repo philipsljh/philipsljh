@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**philipsljh/philipsljh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[ Tags ] Systems R&D Engineer / Software Architect (AI-Augmented Workflows)
 
-Here are some ideas to get you started:
+[ Core Strengths ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Solid Computer Science Fundamentals: Driven by first-principles to solve complex problems. Proficient in Win32 kernel objects, memory confrontation, and system defense mechanisms. Prioritizes architectural integrity and rigorous logic over blind code accumulation.
+
+Exceptional Rapid Learning & Adaptability: Adept at migrating cross-domain logic and leveraging advanced AI tools to spearhead unfamiliar technical territories. By bypassing tedious syntax hunting, focus is entirely directed toward system architecture and hard deadlines, maximizing delivery efficiency.
+
+Production-Grade Independent Delivery: As an independent researcher, engineered and shipped the open-source Zero-Trust Security Hardening Framework (CSC) within a few months. Adhered to strict engineering discipline, achieving complete avoidance of Loader Lock, dynamic injection/poisoning mitigation, and stateless memory defense.
+
+[ Self-Evaluation ]
+Deeply respectful of established engineering excellence and industry precedents. Guided by the philosophy that technology exists to serve the business, maintaining an empty-cup mindset and a drive for high-frequency iteration. Eager to join a hardcore technical team, empowering core infrastructure or anti-cheat business units with high-efficiency delivery and low-level confrontation logic.

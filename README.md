@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<!-- 语言切换按钮 -->
+[![English](https://img.shields.io/badge/Language-English-blue?style=flat-square)](#-english-version) [![简体中文](https://img.shields.io/badge/Language-简体中文-red?style=flat-square)](#-中文版本)
+
+---
+
+## 🌐 English Version
+
 **[ Tags ]** Systems R&D Engineer / Software Architect (AI-Augmented Workflows)
 
 **[ Core Strengths ]**
@@ -10,12 +17,11 @@
 **[ Self-Evaluation ]**
 Deeply respectful of established engineering excellence and industry precedents. Guided by the philosophy that technology exists to serve the business, maintaining an empty-cup mindset and a drive for high-frequency iteration. Eager to join a hardcore technical team, empowering core infrastructure or anti-cheat business units with high-efficiency delivery and low-level confrontation logic.
 
+
 ---
 
-<!-- 折叠按钮开始 -->
-<details>
-<summary><b>🇨🇳 点击展开中文个人简介 (Click to expand Chinese Version)</b></summary>
-<br>
+
+## 🌐 中文版本
 
 **【个人标签】**：系统研发工程师 / 架构设计（AI高效协同方向）
 
@@ -26,6 +32,3 @@ Deeply respectful of established engineering excellence and industry precedents.
 
 **【自我评价】**：
 尊重行业前辈沉淀的宝贵工程经验。深知技术服务于业务的道理，保持空杯心态与高频迭代的自驱力。渴望加入硬核的技术团队，用自己高效的交付效率与底层对抗逻辑，为公司核心基建或反作弊业务切实赋能。
-
-</details>
-<!-- 折叠按钮结束 -->
